@@ -1,4 +1,4 @@
-# Sentimens Analysis
+# Sentiment Analysis
 
 It is important for companies to understand the sentiments of their customers or clients in order to remain competitive and grow their businesses. Traditionally this depended upon feedback surveys and informal, small-scale and often inefficient methods. Today, however, there is great deal of information on social media and e-commerce platforms related to customer's experinces with products and services. This is available for companies to analyze and better understand their customer's experience and satisfaction.
 
